@@ -7,4 +7,4 @@ This repository contains all of the notes taken by [Nik](https://github.com/NB09
 
 ## Table of Contents
 * [Week 1](/Week_1)
-  * [Day 1](/Week1/Day_1)
+  * [Day 1](/Week_1/Day_1)
