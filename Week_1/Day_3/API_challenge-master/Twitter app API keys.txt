@@ -1,0 +1,18 @@
+API Key (Consumer Key)
+TwitterConsumerKey
+rrJb8Kd1S5dhKX50W9VrokldR
+
+API Secret Key (Consumer Key)
+TwitterSecretConsumerKey
+OZwrD684KG62kTuVEjUkqL8m9Exizx6EprW89byCWEMZB26iGM
+
+Bearer Token (Authentication Token)
+AAAAAAAAAAAAAAAAAAAAAGyjRwEAAAAAVjzGscYaxEVtBg1uMyS8VYT1dSQ%3DBVCK11BdshOEIh2YjnEHTfuHSKPIsp8dMY7irHcXC45SeRZZDG
+
+Access Token (Authentication Token)
+TwitterAccessToken
+731267413182832640-iEspvzie7O4nbmY6l0XCh2cQ48jwqVI
+
+Access Token Secret (Authentication Token)
+TwitterSecretAccessToken
+HnQuhiAc6WTgzRGd86SzoA2oy8MOtRosNvq6dGc0Ijdnu
