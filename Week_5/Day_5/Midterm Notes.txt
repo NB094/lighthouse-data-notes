@@ -1,0 +1,35 @@
+Notes:
+1. Why do flights get delayed? (traffic? Weather (look up API)?)  Can look at other datasets out there to complement results.
+2. Spend first couple days exploring datasets, write some hypotheses.
+3. Sunday to Monday: feature engineering
+4. Beginning of Tuesday: have baseline model created
+5. Tuesday-Thursday: hyperparameter tuning, testing other models
+6. Split up tasks; lots of ground to cover
+7. Check out exploratory_analysis workbook for a start. Also explore data in different ways.
+
+8. Drop the specified variables from the predictors (CARRIER_DELAY, WEATHER_DELAY, etc.)
+	However, you can take (e.g.) historical averages of these values and feature-engineer them into the model.
+9. Each row is 1 flight.
+10. Try running models on Google Colab so we can do other stuff while we wait.
+11. Try sampling data from December/January since there are a lot of rows of data. State any methods we used.
+12. Really hard to get a good score. Most R2 scores are 0.08 to 0.15. Keep track of improvements over model iterations.
+	Upper bound: 0.18-0.22 (very few students)
+	Top score: 0.4+
+13. Also consider other metrics, like MAE.
+14. Title sections? Iteration 1, Iteration 2, ...., Iteration n.
+15. Keep code quality high from the get-go; it is getting reviewed!
+	Include	Docstrings for functions. ( ''' ) See Slide 30.
+	Use "Pickling" to save models.
+16. Google Colab uses new environments for each notebook. You can install stuff with !pip install <...>, if needed.
+	Consider mounting Google Drive to Google Colab.
+
+
+Approach:
+1. Reading the project requirements, understanding the problem
+2. Drop unneccesary columns
+2. Get data from Dec/Jan 2018/2019, exploratory data analysis (EDA)    Aim to have 100,000 - 500,000 observations
+3. Preprocess / Clean Data
+4. Google causes of flight delays (incorporate into dataset if possible)
+5. Feature engineering/selection, hypothesize on important features
+6. Create baseline model
+7. Iterations (different models, different hyperparameters; grid-searching)
