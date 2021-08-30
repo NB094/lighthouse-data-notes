@@ -1,0 +1,4 @@
+ssh -i C:/Users/Nik/Coding/Compass/NOTES/Week_6/Day_6/lhl_key.ppk  ubuntu@ec2-3-139-70-187.us-east-2.compute.amazonaws.com
+
+
+token=5d63931bebb125b18f87a76659ca99d022c6288b5fbc00ac
