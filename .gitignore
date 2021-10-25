@@ -1,4 +1,5 @@
 
+*.ipynb_checkpoints/
 Week_1/Day_2/python_exercise/
 Week_1/Day_5/assessment-exam-student-python/
 Week_1/Day_6/SQL_exercise/
